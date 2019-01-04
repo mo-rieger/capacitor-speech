@@ -1,0 +1,6 @@
+{
+  "appId": "speech.netcandy.de",
+  "appName": "speech",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
